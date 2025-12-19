@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build artifacts (if any)
+dist/
+build/
+*.zip
+*.xpi
+
