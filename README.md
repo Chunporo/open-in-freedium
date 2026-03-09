@@ -15,7 +15,7 @@ A Firefox browser extension that allows you to quickly open Medium articles and 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/open-in-freedium.git
+   git clone https://github.com/Chunporo/open-in-freedium.git
    cd open-in-freedium
    ```
 
